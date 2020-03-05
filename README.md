@@ -1,2 +1,2 @@
 # Kaggle-Competition
-# Kannada MNIST | Kaggle - https://www.kaggle.com/c/Kannada-MNIST
+### Kannada MNIST | Kaggle - https://www.kaggle.com/c/Kannada-MNIST
